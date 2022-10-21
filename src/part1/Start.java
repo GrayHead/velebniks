@@ -1,8 +1,10 @@
+package part1;
+
 public class Start {
     public static void main(String[] args) {
         System.out.println("hello");
 
-//        User user1 = new User();
+//        part1.User user1 = new part1.User();
 //        user1.id = 1;
 //        user1.name = "vasya";
 //        user1.surname = "pupkin";
