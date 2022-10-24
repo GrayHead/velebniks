@@ -8,7 +8,6 @@ import lombok.experimental.FieldDefaults;
 @Getter
 @Setter
 @ToString
-
 public class User {
     private int id;
     private  String name;
