@@ -3,6 +3,7 @@ package part5;
 public class Main {
     public static void main(String[] args) {
 
+
         User user = new User(
                 1,
                 "vasya",
@@ -11,5 +12,7 @@ public class Main {
 
 
         new User(2, "ashfdhgasd", "tfd", "797645");
+
+
     }
 }
