@@ -24,7 +24,7 @@ public class Main {
         Collection<String> strings1 = baseList;
 
 
-        asdqwe();
+//        asdqwe();
     }
 
     public static void asdqwe(List<String> strings) {
